@@ -1,0 +1,1 @@
+-- Sample SQL script for preprocessing customer data
